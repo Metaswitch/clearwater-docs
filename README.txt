@@ -216,7 +216,7 @@ FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
 OTHER DEALINGS IN THE SOFTWARE. 
 
 A.13	jQuery-BBQ
-Copyright © 2010 "Cowboy" Ben Alman
+Copyright ï¿½ 2010 "Cowboy" Ben Alman
  Permission is hereby granted, free of charge, to any person obtaining a copy of this 
 software and associated documentation files (the "Software"), to deal in the Software 
 without restriction, including without limitation the rights to use, copy, modify, merge, 
@@ -263,7 +263,7 @@ A.16	jQuery-total-storage
  http://www.gnu.org/licenses/gpl.html
 
 A.17	jQuery-validation
-Copyright (c) 2013 Jörn Zaefferer Licensed under the MIT license.
+Copyright (c) 2013 Jï¿½rn Zaefferer Licensed under the MIT license.
 
 A.18	jsoncpp
 Copyright (c) 2007-2010 Baptiste Lepilleur
@@ -607,7 +607,7 @@ Jessica McKellar
 Jonathan Jacobs 
 Jonathan Lange 
 Jonathan D. Simms 
-Jürgen Hermann 
+Jï¿½rgen Hermann 
 Kevin Horn 
 Kevin Turner 
 Mary Gardiner 
@@ -713,4 +713,17 @@ HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
 WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING 
 FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR 
 OTHER DEALINGS IN THE SOFTWARE.
+
+A.46 Cassandra
+Copyright 2009, 2010 The Apache Software Foundation
+License: Apache License Version 2.0
+
+A.47 Infinispan
+Copyright 2009 - 2013, Red Hat Inc. and/or its affiliates.
+License: 
+Infinispan v5.3 is licensed under LGPL v2.1
+Infinispan v6 is licensed under Apache Software Licence v2.0
+
+A.48 Ubuntu
+See http://www.ubuntu.com/about/about-ubuntu/licensing
 
