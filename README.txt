@@ -797,3 +797,29 @@ Portions of Libevhtp are based on works by others, also made available by them
 under the three-clause BSD license above. The functions include:
 evhtp.c: _evhtp_glob_match():
    Copyright (c) 2006-2009, Salvatore Sanfilippo
+   
+
+A.52 etcd
+License: Apache 2.0 (https://github.com/coreos/etcd/blob/0ef53ee500dded24eecdffb4c50d980749625ae2/LICENSE)
+
+A.53 python-etcd
+Copyright (c) 2013,2014,2015 Jose Plana Mario, Giuseppe Lavagetto
+Modifications, Copyright (c) 2015 Metaswitch Networks Limited
+Modifications, Copyright (c) 2015 The Wikimedia Foundation, Inc.
+License: MIT (https://github.com/jplana/python-etcd/commit/83ba0d07b1282b7f319d2aa99cd73950c00d522f#diff-61e0bdf7e1b43c5c93d9488b22e04170)
+
+A.53 pyzmq
+Copyright (c) 2009-2012, Brian Granger, Min Ragan-Kelley
+License: BSD/LGPL (https://github.com/zeromq/pyzmq/blob/e798420e72331b5322508bca6381071e79941c82/COPYING.BSD)
+
+A.54 pyyaml
+The PyYAML module is written by Kirill Simonov.
+PyYAML is released under the MIT license. (http://pyyaml.org/wiki/PyYAML)
+
+A.55 futures
+Copyright 2009 Brian Quinlan.
+License: MIT (https://github.com/agronholm/pythonfutures/blob/fdb0bd50e00ef542d5e591847e4085dbc79e4913/LICENSE)
+
+A.56 docopt
+Copyright (c) 2012 Vladimir Keleshev, <vladimir@keleshev.com>
+License: MIT (https://github.com/docopt/docopt/blob/463d780a698cbacb1cf5590ae849b8f890baf25d/LICENSE-MIT)
