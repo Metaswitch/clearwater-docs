@@ -823,3 +823,7 @@ License: MIT (https://github.com/agronholm/pythonfutures/blob/fdb0bd50e00ef542d5
 A.56 docopt
 Copyright (c) 2012 Vladimir Keleshev, <vladimir@keleshev.com>
 License: MIT (https://github.com/docopt/docopt/blob/463d780a698cbacb1cf5590ae849b8f890baf25d/LICENSE-MIT)
+
+A.57 prctl
+Copyright (c) 2005-2010 Slide, Inc
+License: BSD (https://github.com/slideinc/prctl/blob/master/LICENSE)
