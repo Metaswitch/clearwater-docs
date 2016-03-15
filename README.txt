@@ -827,3 +827,7 @@ License: MIT (https://github.com/docopt/docopt/blob/463d780a698cbacb1cf5590ae849
 A.57 prctl
 Copyright (c) 2005-2010 Slide, Inc
 License: BSD (https://github.com/slideinc/prctl/blob/master/LICENSE)
+
+A.58 monotonic
+Copyright 2014-2016 Ori Livnehi, <ori@wikimedia.org>
+License: Apache 2.0 (https://github.com/atdt/monotonic/blob/master/LICENSE)
