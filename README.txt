@@ -831,3 +831,28 @@ License: BSD (https://github.com/slideinc/prctl/blob/master/LICENSE)
 A.58 monotonic
 Copyright 2014-2016 Ori Livnehi, <ori@wikimedia.org>
 License: Apache 2.0 (https://github.com/atdt/monotonic/blob/master/LICENSE)
+
+A.59 pam_radius
+Copyright (C) 1989, 1991 Free Software Foundation, Inc.
+License: GNU GPLv2 or any later version (https://github.com/FreeRADIUS/pam_radius/blob/c2c2b9c4b0571f4e6050de78ae8fd813d1be7431/LICENSE)
+
+A.60 libnss-ato
+(https://github.com/Metaswitch/libnss-ato/blob/c5bf3e5482f27df77457df26a1b15cf2419bce89/copyright)
+Copyright (C) 2007 Pietro Donatini (pietro.donatini@unibo.it).
+
+This program is free software; you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation; either version 2 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program; if not, write to the Free Software
+Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
+
+On Debian systesm, the full text of the GNU General Public License can
+be found in /usr/share/common-licenses/GPL.
