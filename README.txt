@@ -832,7 +832,32 @@ A.58 monotonic
 Copyright 2014-2016 Ori Livnehi, <ori@wikimedia.org>
 License: Apache 2.0 (https://github.com/atdt/monotonic/blob/master/LICENSE)
 
-A.59 six
+A.59 pam_radius
+Copyright (C) 1989, 1991 Free Software Foundation, Inc.
+License: GNU GPLv2 or any later version (https://github.com/FreeRADIUS/pam_radius/blob/c2c2b9c4b0571f4e6050de78ae8fd813d1be7431/LICENSE)
+
+A.60 libnss-ato
+(https://github.com/Metaswitch/libnss-ato/blob/c5bf3e5482f27df77457df26a1b15cf2419bce89/copyright)
+Copyright (C) 2007 Pietro Donatini (pietro.donatini@unibo.it).
+
+This program is free software; you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation; either version 2 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program; if not, write to the Free Software
+Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
+
+On Debian systesm, the full text of the GNU General Public License can
+be found in /usr/share/common-licenses/GPL.
+
+A.61 six
 Copyright (c) 2010-2015 Benjamin Peterson
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
@@ -852,7 +877,7 @@ COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
 IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
 CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-A.60 requests
+A.62 requests
 Copyright 2015 Kenneth Reitz
 
 Licensed under the Apache License, Version 2.0 (the ""License"");
@@ -867,7 +892,7 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 
-A.61 pyro4
+A.63 pyro4
 
 Pyro - Python Remote Objects - version 4.x
 
@@ -881,7 +906,7 @@ THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR I
 
 This is the MIT Software License which is OSI-certified, and GPL-compatible.
 
-A.62 serpent
+A.64 serpent
 MIT License
 
 Copyright (c) 2016 Irmen de Jong
@@ -904,7 +929,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-A.63 configobj
+A.65 configobj
 Copyright (C) 2005-2014:
 (name) : (email)
 Michael Foord: fuzzyman AT voidspace DOT org DOT uk
@@ -936,7 +961,7 @@ THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
-A.64 setuptools
+A.66 setuptools
 Copyright (C) 2016 Jason R Coombs <jaraco@jaraco.com>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
