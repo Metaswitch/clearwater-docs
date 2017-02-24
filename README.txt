@@ -2000,7 +2000,13 @@ including the two.
 You must obey the GNU General Public License in all respects
 for all of the code used other than OpenSSL.
 
-A.74 Siphash
+A.74 SipHash
+
+SipHash reference C implementation
+   Copyright (c) 2012-2016 Jean-Philippe Aumasson
+   <jeanphilippe.aumasson@gmail.com>
+   Copyright (c) 2012-2014 Daniel J. Bernstein <djb@cr.yp.to>
+   
 The person who associated a work with this deed has dedicated the work to the public domain by waiving all of his or her rights to the work worldwide under copyright law, including all related and neighboring rights, to the extent allowed by law.
 
 You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission. See Other Information below.
