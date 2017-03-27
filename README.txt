@@ -808,35 +808,35 @@ Modifications, Copyright (c) 2015 Metaswitch Networks Limited
 Modifications, Copyright (c) 2015 The Wikimedia Foundation, Inc.
 License: MIT (https://github.com/jplana/python-etcd/commit/83ba0d07b1282b7f319d2aa99cd73950c00d522f#diff-61e0bdf7e1b43c5c93d9488b22e04170)
 
-A.53 pyzmq
+A.54 pyzmq
 Copyright (c) 2009-2012, Brian Granger, Min Ragan-Kelley
 License: BSD/LGPL (https://github.com/zeromq/pyzmq/blob/e798420e72331b5322508bca6381071e79941c82/COPYING.BSD)
 
-A.54 pyyaml
+A.55 pyyaml
 The PyYAML module is written by Kirill Simonov.
 PyYAML is released under the MIT license. (http://pyyaml.org/wiki/PyYAML)
 
-A.55 futures
+A.56 futures
 Copyright 2009 Brian Quinlan.
 License: MIT (https://github.com/agronholm/pythonfutures/blob/fdb0bd50e00ef542d5e591847e4085dbc79e4913/LICENSE)
 
-A.56 docopt
+A.57 docopt
 Copyright (c) 2012 Vladimir Keleshev, <vladimir@keleshev.com>
 License: MIT (https://github.com/docopt/docopt/blob/463d780a698cbacb1cf5590ae849b8f890baf25d/LICENSE-MIT)
 
-A.57 prctl
+A.58 prctl
 Copyright (c) 2005-2010 Slide, Inc
 License: BSD (https://github.com/slideinc/prctl/blob/master/LICENSE)
 
-A.58 monotonic
+A.59 monotonic
 Copyright 2014-2016 Ori Livnehi, <ori@wikimedia.org>
 License: Apache 2.0 (https://github.com/atdt/monotonic/blob/master/LICENSE)
 
-A.59 pam_radius
+A.60 pam_radius
 Copyright (C) 1989, 1991 Free Software Foundation, Inc.
 License: GNU GPLv2 or any later version (https://github.com/FreeRADIUS/pam_radius/blob/c2c2b9c4b0571f4e6050de78ae8fd813d1be7431/LICENSE)
 
-A.60 libnss-ato
+A.61 libnss-ato
 (https://github.com/Metaswitch/libnss-ato/blob/c5bf3e5482f27df77457df26a1b15cf2419bce89/copyright)
 Copyright (C) 2007 Pietro Donatini (pietro.donatini@unibo.it).
 
@@ -857,7 +857,7 @@ Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
 On Debian systesm, the full text of the GNU General Public License can
 be found in /usr/share/common-licenses/GPL.
 
-A.61 six
+A.62 six
 Copyright (c) 2010-2015 Benjamin Peterson
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
@@ -877,7 +877,7 @@ COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
 IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
 CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-A.62 requests
+A.63 requests
 Copyright 2015 Kenneth Reitz
 
 Licensed under the Apache License, Version 2.0 (the ""License"");
@@ -892,7 +892,7 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 
-A.63 pyro4
+A.64 pyro4
 
 Pyro - Python Remote Objects - version 4.x
 
@@ -906,7 +906,7 @@ THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR I
 
 This is the MIT Software License which is OSI-certified, and GPL-compatible.
 
-A.64 serpent
+A.65 serpent
 MIT License
 
 Copyright (c) 2016 Irmen de Jong
@@ -928,38 +928,6 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-A.65 configobj
-Copyright (C) 2005-2014:
-(name) : (email)
-Michael Foord: fuzzyman AT voidspace DOT org DOT uk
-Nicola Larosa: nico AT tekNico DOT net
-Rob Dennis: rdennis AT gmail DOT com
-Eli Courtwright: eli AT courtwright DOT org
-
-    * Redistributions of source code must retain the above copyright
-      notice, this list of conditions and the following disclaimer.
-
-    * Redistributions in binary form must reproduce the above
-      copyright notice, this list of conditions and the following
-      disclaimer in the documentation and/or other materials provided
-      with the distribution.
-
-    * None of the authors names may be used to endorse or
-      promote products derived from this software without
-      specific prior written permission.
-
-THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
-""AS IS"" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
-LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR
-A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT
-OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
-SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT
-LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,
-DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
-THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
-(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
-OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 A.66 setuptools
 Copyright (C) 2016 Jason R Coombs <jaraco@jaraco.com>
