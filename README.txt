@@ -2433,3 +2433,13 @@ ntpsweep:
 # purpose. The name Origin B.V. must not be used to endorse or promote
 # products derived from this software without prior written permission.
 
+
+A.79 re2
+Author: Facebook
+Home Page: https://github.com/google/re2
+License: 3 clause BSD
+
+A.80 py-re2
+Author: David Reiss
+Home Page: https://github.com/facebook/pyre2
+License: 3 clause BSD
